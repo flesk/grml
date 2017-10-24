@@ -1,0 +1,1 @@
+apt-get install tmux htop colortail zsh curl dtrx ncdu ethtool git lsof multitail ntpdate p7zip pwgen rsync tree vim-nox 
